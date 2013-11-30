@@ -47,8 +47,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/egl/libEGL_adreno200.so:/system/lib/egl/libEGL_adreno200.so \
     vendor/htc/vivo/proprietary/lib/egl/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/htc/vivo/proprietary/lib/egl/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
-    vendor/htc/vivo/proprietary/lib/egl/libGLESv2S3D_adreno200.so:/system/lib/egl/libGLESv2S3D_adreno200.so \
     vendor/htc/vivo/proprietary/lib/egl/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
+    vendor/htc/vivo/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/htc/vivo/proprietary/lib/libaudioalsa.so:/system/lib/libaudioalsa.so \
     vendor/htc/vivo/proprietary/lib/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/vivo/proprietary/lib/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
@@ -68,6 +68,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libmmipl.so:/system/lib/libmmipl.so \
     vendor/htc/vivo/proprietary/lib/libmmjpeg.so:/system/lib/libmmjpeg.so \
     vendor/htc/vivo/proprietary/lib/libOpenVG.so:/system/lib/libOpenVG.so \
+    vendor/htc/vivo/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
+    vendor/htc/vivo/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/htc/vivo/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
     vendor/htc/vivo/proprietary/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/htc/vivo/proprietary/lib/libv8.so:system/lib/libv8.so
