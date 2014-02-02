@@ -53,7 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/vivo/proprietary/lib/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
     vendor/htc/vivo/proprietary/lib/liboemcamera.so:/system/lib/liboemcamera.so \
-    vendor/htc/vivo/proprietary/lib/hw/camera.default.so:/system/lib/hw/camera.default.so \
+    vendor/htc/vivo/proprietary/camera.vendor.msm7x30.so:/system/lib/hw/camera.vendor.msm7x30.so \
     vendor/htc/vivo/proprietary/lib/libOlaEngine.so:/system/lib/libOlaEngine.so \
     vendor/htc/vivo/proprietary/lib/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/vivo/proprietary/lib/libcameraface.so:/system/lib/libcameraface.so \
