@@ -19,16 +19,16 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
     vendor/htc/vivo/proprietary/lib/libv8.so:obj/lib/libv8.so \
     vendor/htc/vivo/proprietary/lib/libjni_latinime.so:obj/lib/libjni_latinime.so \
-    vendor/htc/vivo/proprietary/system/lib/libqc-opt.so:obj/lib/libqc-opt.so
+    vendor/htc/vivo/proprietary/lib/lib/libqc-opt.so:obj/lib/libqc-opt.so
 
 # Prebuilt libraries from CodeAurora
 PRODUCT_COPY_FILES += \
-    vendor/htc/vivo/system/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
-    vendor/htc/vivo/system/lib/libmmosal.so:system/lib/libmmosal.so \
-    vendor/htc/vivo/system/lib/libmmparser.so:system/lib/libmmparser.so \
-    vendor/htc/vivo/system/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
-    vendor/htc/vivo/system/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
-    vendor/htc/vivo/system/lib/libqc-opt.so:system/lib/libqc-opt.so
+    vendor/htc/vivo/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
+    vendor/htc/vivo/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
+    vendor/htc/vivo/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
+    vendor/htc/vivo/proprietary/lib/libmmparser_divxdrmlib.so:system/lib/libmmparser_divxdrmlib.so \
+    vendor/htc/vivo/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
+    vendor/htc/vivo/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so
 
 # All the blobs necessary for vivo
 PRODUCT_COPY_FILES += \
@@ -52,11 +52,11 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
     vendor/htc/vivo/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/htc/vivo/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
-    vendor/htc/vivo/system/etc/firmware/a225_pfp.fw:/system/etc/firmware/a225_pfp.fw \
-    vendor/htc/vivo/system/etc/firmware/a225_pm4.fw:/system/etc/firmware/a225_pm4.fw \
-    vendor/htc/vivo/system/etc/firmware/a225p5_pm4.fw:/system/etc/firmware/a225p5_pm4.fw \
-    vendor/htc/vivo/system/etc/firmware/a300_pfp.fw:/system/etc/firmware/a300_pfp.fw \
-    vendor/htc/vivo/system/etc/firmware/a300_pm4.fw:/system/etc/firmware/a300_pm4.fw \
+    vendor/htc/vivo/proprietary/etc/firmware/a225_pfp.fw:/system/etc/firmware/a225_pfp.fw \
+    vendor/htc/vivo/proprietary/etc/firmware/a225_pm4.fw:/system/etc/firmware/a225_pm4.fw \
+    vendor/htc/vivo/proprietary/etc/firmware/a225p5_pm4.fw:/system/etc/firmware/a225p5_pm4.fw \
+    vendor/htc/vivo/proprietary/etc/firmware/a300_pfp.fw:/system/etc/firmware/a300_pfp.fw \
+    vendor/htc/vivo/proprietary/etc/firmware/a300_pm4.fw:/system/etc/firmware/a300_pm4.fw \
     vendor/htc/vivo/proprietary/lib/egl/eglsubAndroid.so:/system/lib/egl/eglsubAndroid.so \
     vendor/htc/vivo/proprietary/lib/egl/libEGL_adreno200.so:/system/lib/egl/libEGL_adreno200.so \
     vendor/htc/vivo/proprietary/lib/egl/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
