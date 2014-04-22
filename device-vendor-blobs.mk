@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
     vendor/htc/vivo/proprietary/lib/libv8.so:obj/lib/libv8.so \
     vendor/htc/vivo/proprietary/lib/libjni_latinime.so:obj/lib/libjni_latinime.so \
-    vendor/htc/vivo/proprietary/lib/lib/libqc-opt.so:obj/lib/libqc-opt.so
+    vendor/htc/vivo/proprietary/lib/libqc-opt.so:obj/lib/libqc-opt.so
 
 # Prebuilt libraries from CodeAurora
 PRODUCT_COPY_FILES += \
