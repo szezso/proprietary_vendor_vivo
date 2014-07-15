@@ -48,30 +48,28 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/egl/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/htc/vivo/proprietary/lib/egl/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/vivo/proprietary/lib/egl/libGLESv2S3D_adreno200.so:/system/lib/egl/libGLESv2S3D_adreno200.so \
+    vendor/htc/vivo/proprietary/lib/egl/libplayback_adreno200.so:/system/lib/egl/libplayback_adreno200.so \
     vendor/htc/vivo/proprietary/lib/egl/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
     vendor/htc/vivo/proprietary/lib/libaudioalsa.so:/system/lib/libaudioalsa.so \
     vendor/htc/vivo/proprietary/lib/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/vivo/proprietary/lib/libc2d2_z180.so:/system/lib/libc2d2_z180.so \
     vendor/htc/vivo/proprietary/lib/liboemcamera.so:/system/lib/liboemcamera.so \
     vendor/htc/vivo/proprietary/lib/hw/camera.default.so:/system/lib/hw/camera.default.so \
-    vendor/htc/vivo/proprietary/lib/hw/hwcomposer.msm7x30.so:/system/lib/hw/hwcomposer.msm7x30.so \
-    vendor/htc/vivo/proprietary/lib/hw/gralloc.msm7x30.so:/system/lib/hw/gralloc.msm7x30.so \
     vendor/htc/vivo/proprietary/lib/libOlaEngine.so:/system/lib/libOlaEngine.so \
     vendor/htc/vivo/proprietary/lib/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/vivo/proprietary/lib/libcameraface.so:/system/lib/libcameraface.so \
-    vendor/htc/vivo/proprietary/lib/libcamera_client.so:/system/lib/libcamera_client.so \
-    vendor/htc/vivo/proprietary/lib/libcameraservice.so:/system/lib/libcameraservice.so \
     vendor/htc/vivo/proprietary/lib/libcamerapp.so:/system/lib/libcamerapp.so \
     vendor/htc/vivo/proprietary/lib/libchromatix_s5k3h1gx_default_video.so:/system/lib/libchromatix_s5k3h1gx_default_video.so \
     vendor/htc/vivo/proprietary/lib/libchromatix_s5k3h1gx_preview.so:/system/lib/libchromatix_s5k3h1gx_preview.so \
     vendor/htc/vivo/proprietary/lib/libgemini.so:/system/lib/libgemini.so \
+    vendor/htc/vivo/proprietary/lib/libllvm-arm.so:/system/lib/libllvm-arm.so \
     vendor/htc/vivo/proprietary/lib/libgsl.so:/system/lib/libgsl.so \
     vendor/htc/vivo/proprietary/lib/libhtc_acoustic.so:/system/lib/libhtc_acoustic.so \
     vendor/htc/vivo/proprietary/lib/libhtc_ril.so:/system/lib/libhtc_ril.so \
     vendor/htc/vivo/proprietary/lib/libmmipl.so:/system/lib/libmmipl.so \
     vendor/htc/vivo/proprietary/lib/libmmjpeg.so:/system/lib/libmmjpeg.so \
-    vendor/htc/vivo/proprietary/lib/libOmxVdec.so:/system/lib/libOmxVdec.so \
     vendor/htc/vivo/proprietary/lib/libOpenVG.so:/system/lib/libOpenVG.so \
+    vendor/htc/vivo/proprietary/lib/libOpenCL.so:/system/lib/libOpenCL.so \
     vendor/htc/vivo/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
     vendor/htc/vivo/proprietary/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/htc/vivo/proprietary/lib/libv8.so:system/lib/libv8.so \
