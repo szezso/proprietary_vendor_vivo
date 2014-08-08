@@ -86,4 +86,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/htc/vivo/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
     vendor/htc/vivo/proprietary/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
+    vendor/htc/vivo/proprietary/lib/libOmxVdec.so:/system/lib/libOmxVdec.so \
+    vendor/htc/vivo/proprietary/lib/libOmxVenc.so:/system/lib/libOmxVenc.so \
     vendor/htc/vivo/proprietary/lib/libv8.so:system/lib/libv8.so
