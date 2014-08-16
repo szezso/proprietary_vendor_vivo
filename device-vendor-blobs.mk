@@ -86,6 +86,13 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/htc/vivo/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
     vendor/htc/vivo/proprietary/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
-    vendor/htc/vivo/proprietary/lib/libOmxVdec.so:/system/lib/libOmxVdec.so \
-    vendor/htc/vivo/proprietary/lib/libOmxVenc.so:/system/lib/libOmxVenc.so \
     vendor/htc/vivo/proprietary/lib/libv8.so:system/lib/libv8.so
+
+# Legacy blobs, built by me from source
+PRODUCT_COPY_FILES += \
+    vendor/htc/vivo/proprietary/legacy/libOmxVdec.so:/system/lib/libOmxVdec.so \
+    vendor/htc/vivo/proprietary/legacy/libOmxVenc.so:/system/lib/libOmxVenc.so \
+    vendor/htc/vivo/proprietary/legacy/libc2dcolorconvert.so:/system/lib/libc2dcolorconvert.so \
+    vendor/htc/vivo/proprietary/legacy/libexternal.so:/system/lib/libexternal.so \
+    vendor/htc/vivo/proprietary/legacy/libqdMetaData.so:/system/lib/libqdMetaData.so \
+    vendor/htc/vivo/proprietary/legacy/libqservice.so:/system/lib/libqservice.so
