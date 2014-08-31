@@ -90,4 +90,5 @@ PRODUCT_COPY_FILES += \
 
 # Legacy blobs, built by me from source
 PRODUCT_COPY_FILES += \
+    vendor/htc/vivo/proprietary/legacy/libOmxVdec.so:/system/lib/libOmxVdec.so
     vendor/htc/vivo/proprietary/legacy/libOmxMp3Dec.so:/system/lib/libOmxMp3Dec.so
