@@ -92,6 +92,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/legacy/libOmxVdec.so:/system/lib/libOmxVdec.so \
     vendor/htc/vivo/proprietary/legacy/libOmxVenc.so:/system/lib/libOmxVenc.so \
+    vendor/htc/vivo/proprietary/legacy/libOmxMp3Dec.so:/system/lib/libOmxMp3Dec.so \
     vendor/htc/vivo/proprietary/legacy/libc2dcolorconvert.so:/system/lib/libc2dcolorconvert.so \
     vendor/htc/vivo/proprietary/legacy/libexternal.so:/system/lib/libexternal.so \
     vendor/htc/vivo/proprietary/legacy/libqdMetaData.so:/system/lib/libqdMetaData.so \
