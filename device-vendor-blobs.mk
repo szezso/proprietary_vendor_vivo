@@ -73,4 +73,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
     vendor/htc/vivo/proprietary/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/htc/vivo/proprietary/lib/libv8.so:system/lib/libv8.so \
+    vendor/htc/vivo/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
     vendor/htc/vivo/proprietary/lib/libjni_latinime.so:system/lib/libjni_latinime.so 
