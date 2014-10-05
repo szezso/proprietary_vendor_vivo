@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/bin/akmd:/system/bin/akmd \
     vendor/htc/vivo/proprietary/bin/awb_camera:/system/bin/awb_camera \
     vendor/htc/vivo/proprietary/bin/bma150_usr:/system/bin/bma150_usr \
-    vendor/htc/vivo/proprietary/bin/logcat2:/system/bin/logcat2 \
     vendor/htc/vivo/proprietary/bin/lsc_camera:/system/bin/lsc_camera \
     vendor/htc/vivo/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
     vendor/htc/vivo/proprietary/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd:system/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd \
