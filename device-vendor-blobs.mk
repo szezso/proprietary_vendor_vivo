@@ -71,7 +71,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/vivo/proprietary/lib/libcameraface.so:/system/lib/libcameraface.so \
     vendor/htc/vivo/proprietary/lib/libcamerapp.so:/system/lib/libcamerapp.so \
-    vendor/htc/vivo/proprietary/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
     vendor/htc/vivo/proprietary/lib/libchromatix_s5k3h1gx_default_video.so:/system/lib/libchromatix_s5k3h1gx_default_video.so \
     vendor/htc/vivo/proprietary/lib/libchromatix_s5k3h1gx_preview.so:/system/lib/libchromatix_s5k3h1gx_preview.so \
     vendor/htc/vivo/proprietary/lib/libgemini.so:/system/lib/libgemini.so \
