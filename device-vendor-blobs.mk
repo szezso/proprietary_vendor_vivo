@@ -85,7 +85,3 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vivo/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
     vendor/htc/vivo/proprietary/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/htc/vivo/proprietary/lib/libv8.so:system/lib/libv8.so
-
-# Legacy blobs, built by me from source
-PRODUCT_COPY_FILES += \
-    vendor/htc/vivo/proprietary/legacy/libOmxVdec.so:/system/lib/libOmxVdec.so
